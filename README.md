@@ -1,6 +1,6 @@
 # Assignment4-for-IN26011064
 
-# Breast Cancer Classification using K-Nearest Neighbors (KNN)
+## Breast Cancer Classification using K-Nearest Neighbors (KNN)
 
 **Author:** Kushagra Raghuvanshi  
 
