@@ -2,15 +2,6 @@
 
 ## Breast Cancer Classification using K-Nearest Neighbors (KNN)
 
-**Author:** Kushagra Raghuvanshi  
-
-**Registration Number:** 23BSA10072
-
-**Application Number:** IN26011064
-
-**Batch Number:** 2B
-
-**Email ID:** kushagra.23bsa10072@vitbhopal.ac.in 
 
 ## Objective
 The objective of this project is to build a K-Nearest Neighbors (KNN) classification model ($k=5$) to accurately classify breast tumors as Malignant (M) or Benign (B) based on diagnostic measurements.
